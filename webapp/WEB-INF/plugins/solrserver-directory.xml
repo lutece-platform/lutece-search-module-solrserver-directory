@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><plug-in>
+	<name>solrserver-directory</name>
+	<class>fr.paris.lutece.portal.service.plugin.PluginDefaultImplementation</class>
+	<version>1.0.1</version>
+	<description>solrserverdirectory.description</description>
+	<documentation/>
+	<installation/>
+	<changes/>
+	<user-guide/>
+	<provider>solrserverdirectory.provider</provider>
+	<provider-url>http://lutece.paris.fr</provider-url>
+	<icon-url>images/admin/skin/plugins/directory/directory.png</icon-url>
+	<copyright>Copyright 2001-2011 Mairie de Paris</copyright>
+	<db-pool-required>0</db-pool-required>
+	<daemons>
+		<daemon>
+			<daemon-id>directorySolrIndexer</daemon-id>
+			<daemon-name>
+				solrserver.module.directory.daemon.directorySolrIndexer.name
+			</daemon-name>
+			<daemon-description>
+				solrserver.module.directory.daemon.directorySolrIndexer.description
+			</daemon-description>
+			<daemon-class>
+				fr.paris.lutece.plugins.solrserver.modules.directory.service.daemon.DirectorySolrIndexerDaemon
+			</daemon-class>
+		</daemon>
+	</daemons>	
+</plug-in>
