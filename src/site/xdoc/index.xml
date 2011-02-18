@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<properties>
+		<title>Index plugin-directory content in solR</title>
+	</properties>
+	<body>
+		<section name="Index plugin-directory content in solR">
+		This module is a lutece daemon to index plugin-directory content in solr
+		</section>
+	</body>
+</document>
