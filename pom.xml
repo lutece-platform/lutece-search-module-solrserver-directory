@@ -49,8 +49,8 @@
 
 	<properties>
 		<componentName>solrserver-directory</componentName>
-		<jiraProjectName>LUTECE</jiraProjectName>
-		<jiraComponentId>10440</jiraComponentId>
+		<jiraProjectName>SOLRSERVERDIRECTORY</jiraProjectName>
+		<jiraComponentId>10582</jiraComponentId>
 	</properties>
 
     <scm>
