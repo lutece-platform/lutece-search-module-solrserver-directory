@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><plug-in>
 	<name>solrserver-directory</name>
 	<class>fr.paris.lutece.portal.service.plugin.PluginDefaultImplementation</class>
-	<version>1.0.1</version>
+	<version>1.0.0</version>
 	<description>solrserverdirectory.description</description>
 	<documentation/>
 	<installation/>
