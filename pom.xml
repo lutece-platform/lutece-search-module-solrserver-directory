@@ -9,7 +9,7 @@
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>module-solrserver-directory</artifactId>
     <packaging>lutece-plugin</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>index directories in solr</name>
     <repositories>
         <repository>
@@ -52,5 +52,6 @@
         <connection>scm:git:https://github.com/lutece-platform/lutece-search-module-solrserver-directory.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-platform/lutece-search-module-solrserver-directory.git</developerConnection>
         <url>https://github.com/lutece-platform/lutece-search-module-solrserver-directory.git</url>
-    </scm>
+      <tag>lutece-search-module-solrserver-directory-1.0.1</tag>
+  </scm>
 </project>
